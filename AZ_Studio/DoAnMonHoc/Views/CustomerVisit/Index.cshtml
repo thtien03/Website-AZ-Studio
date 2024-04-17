@@ -1,0 +1,22 @@
+﻿@model IEnumerable<MessageCustomerVisit>
+
+<h2 class="mt-4">Danh sách liên hệ của khách hàng</h2>
+@if (Model != null && Model.Count() > 0)
+{
+    <div class="message-container">
+        @foreach (var message in Model)
+        {
+            <div class="message card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Tin nhắn từ @message.HoTen</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Email: @message.Email | Số điện thoại: @message.SoDienThoai</h6>
+                    <p class="card-text">Nội dung: @message.TinNhan</p>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>Không có tin nhắn nào được tìm thấy.</p>
+}

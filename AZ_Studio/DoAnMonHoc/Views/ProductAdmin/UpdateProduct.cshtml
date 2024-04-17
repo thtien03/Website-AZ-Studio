@@ -1,0 +1,61 @@
+﻿@model DoAnMonHoc.ViewModel.ProductVM
+<body style="background-color: #F5FFFA;">
+    <div class="container AddSP">
+        <h2>Cập Nhật Sản Phẩm</h2> 
+        <form asp-action="UpdateProduct" asp-controller="ProductAdmin" enctype="multipart/form-data" class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="MaSanPham" class="form-label">Mã Sản Phẩm:</label>
+                <input type="text" class="form-control" asp-for="MaSanPham" readonly> </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="TenSanPham" class="form-label">Tên Sản Phẩm:</label>
+                <input type="text" class="form-control" asp-for="TenSanPham" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="Hinh" class="form-label">Hình Ảnh Sản Phẩm:</label>
+                <input  type="file" class="form-control" asp-for="Hinh" name="formFile" required> </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="HinhAnhChiTiet" class="form-label"></label>
+                <input type="file" class="form-control" asp-for="HinhAnhChiTiet" name="images" multiple>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="DonGia" class="form-label">Đơn Giá:</label>
+                <input type="number" class="form-control" asp-for="DonGia" min="0" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="SoLuongBan" class="form-label">Số Lượng Bán:</label>
+                <input type="number" class="form-control" asp-for="SoLuongBan" min="0" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="MoTa" class="form-label">Mô Tả:</label>
+                <textarea class="form-control" asp-for="MoTa" required></textarea>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="NgaySanXuat" class="form-label">Ngày Sản Xuất:</label>
+                <input type="date" class="form-control" asp-for="NgaySanXuat" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="SoLuong" class="form-label">Số Lượng:</label>
+                <input type="number" class="form-control" asp-for="SoLuong" min="0" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="SoLuongXem" class="form-label">Số Lượng Xem:</label>
+                <input type="number" class="form-control" asp-for="SoLuongXem" min="0" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="MaLoai" class="form-label"></label>
+                <select asp-for="MaLoai" asp-items="ViewBag.ProductCategories" class="form-control"></select>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="MaNhaCungCap" class="form-label"></label>
+                <select asp-for="MaNhaCungCap" asp-items="ViewBag.NCCCategories" class="form-control"></select>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="MaSize" class="form-label"></label>
+                <select asp-for="MaSize" asp-items="ViewBag.SizeCategories" class="form-control"></select>
+            </div>
+            <div class="col-12 mt-3">
+                <button type="submit" class="btn btn-primary btn-block">Cập Nhật Sản Phẩm</button>
+            </div>
+        </form>
+     </div>
+</body>

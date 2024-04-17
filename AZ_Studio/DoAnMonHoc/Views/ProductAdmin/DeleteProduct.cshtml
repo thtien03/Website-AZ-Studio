@@ -1,0 +1,32 @@
+﻿@model DoAnMonHoc.Models.Product
+
+<body style="background-color: #F5FFFA;">
+    <div class="container">
+        <h2>Xác Nhận Xóa Sản Phẩm</h2>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label class="form-label">Mã Sản Phẩm:</label>
+                <input type="text" class="form-control" value="@Model.MaSanPham" readonly>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label class="form-label">Tên Sản Phẩm:</label>
+                <input type="text" class="form-control" value="@Model.TenSanPham" readonly>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label class="form-label">Giá:</label>
+                <input type="text" class="form-control" value="@Model.DonGia" readonly>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label class="form-label">Hình Ảnh:</label>
+                <img src="~/img/danhmuc/@Model.Hinh" alt="@Model.TenSanPham" class="img-thumbnail">
+            </div>
+        </div>
+        <form asp-action="DeleteProduct" asp-controller="ProductAdmin" asp-route-maSP="@Model.MaSanPham" method="post">
+            <input type="hidden" asp-for="MaSanPham" />
+            <button type="submit" class="btn btn-danger">Xóa Sản Phẩm</button>
+        </form>
+    </div>
+    <div>
+        <a asp-action="Index" asp-controller="ProductAdmin">Trở về</a>
+    </div>
+</body>

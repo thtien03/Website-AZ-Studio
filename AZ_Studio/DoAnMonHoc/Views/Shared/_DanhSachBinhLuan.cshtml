@@ -1,0 +1,30 @@
+﻿@model DoAnMonHoc.ViewModel.ChiTietSanPhamVM
+
+@if (Model.comments != null && Model.comments.Count > 0)
+{
+    @foreach (var comment in Model.comments)
+    {
+        <div class="media mb-4">
+            <img src="~/img/danhmuc/icon_cmt.jpg" class="img-fluid mr-3 mt-1" style="width: 45px;">
+            <div class="media-body">
+                <h6>@comment.Email<small> - <i>@comment.NgayCmt</i></small></h6>
+                <div class="text-primary mb-2">
+                    @* Render stars based on comment rating *@
+                    @for (int i = 0; i < comment.LuotSaoDanhGia; i++)
+                    {
+                        <i class="fas fa-star text-warning"></i>
+                    }
+                    @for (int i = comment.LuotSaoDanhGia; i < 5; i++)
+                    {
+                        <i class="far fa-star text-warning"></i>
+                    }
+                </div>
+                <p>@comment.NoiDung</p>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <h1>Không có bình luận nào.</h1>
+}

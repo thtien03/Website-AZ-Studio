@@ -1,0 +1,17 @@
+﻿@model IEnumerable<DoAnMonHoc.ViewModel.MenuSizeVM>
+<div class="mb-5">
+	<h5 class="font-weight-semi-bold mb-4">Filter by size</h5>
+	<form>
+		<ul class="list-unstyled fruite-categorie">
+			@foreach (var item in Model)
+			{
+				<li>
+					<div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+						<input type="checkbox" class="custom-control-input" id="size-1">
+						<label class="custom-control-label" for="size-1">@item.TenSize</label>
+					</div>
+				</li>
+			}
+		</ul>
+	</form>
+</div>

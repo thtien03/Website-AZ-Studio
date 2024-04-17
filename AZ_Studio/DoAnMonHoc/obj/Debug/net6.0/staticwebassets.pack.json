@@ -1,0 +1,1841 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoAnMonHoc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnMonHoc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style_shop.css",
+      "PackagePath": "staticwebassets\\css\\style_shop.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\free-wedding-website-template.jpg",
+      "PackagePath": "staticwebassets\\free-wedding-website-template.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Beauty shooting , Beauty Hàn Quốc , Photographer in Saigon Portrait and Beauty concept.jpg",
+      "PackagePath": "staticwebassets\\img\\Beauty shooting , Beauty Hàn Quốc , Photographer in Saigon Portrait and Beauty concept.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Golf prewedd.jpg",
+      "PackagePath": "staticwebassets\\img\\Golf prewedd.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Img0135.jpg",
+      "PackagePath": "staticwebassets\\img\\Img0135.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Ngắm trọn bộ ảnh kỷ yếu trong veo như nắng của nữ sinh Ngoại thương từng gây sốt vì lên sóng khi cổ vũ trận Việt Nam - Malaysia.jpg",
+      "PackagePath": "staticwebassets\\img\\Ngắm trọn bộ ảnh kỷ yếu trong veo như nắng của nữ sinh Ngoại thương từng gây sốt vì lên sóng khi cổ vũ trận Việt Nam - Malaysia.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Slide\\Slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\Slide\\Slide1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Slide\\slide2.jpg",
+      "PackagePath": "staticwebassets\\img\\Slide\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\Slide\\slide3.jpg",
+      "PackagePath": "staticwebassets\\img\\Slide\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\bridesmaid-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bridesmaid-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\bridesmaid-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bridesmaid-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\bridesmaid-3.jpg",
+      "PackagePath": "staticwebassets\\img\\bridesmaid-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\2.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\2.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\3.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\3.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\CTH013 Váy cưới làm lễ Haute Couture.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\CTH013 Váy cưới làm lễ Haute Couture.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\CTH013 Váy cưới làm lễ Haute Couture_1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\CTH013 Váy cưới làm lễ Haute Couture_1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\CTH013 Váy cưới làm lễ Haute Couture_2.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\CTH013 Váy cưới làm lễ Haute Couture_2.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Haute Couture-CTH004.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Haute Couture-CTH004.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Haute Couture-CTH004_1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Haute Couture-CTH004_1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Haute Couture-CTH004_2.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Haute Couture-CTH004_2.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Haute Couture-CTH009.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Haute Couture-CTH009.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Haute Couture-CTH009_1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Haute Couture-CTH009_1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Premium Limited-LM228.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Premium Limited-LM228.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ Premium Limited-LM228_1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ Premium Limited-LM228_1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ dòng limited-LM241.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ dòng limited-LM241.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ dòng limited-LM241_1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ dòng limited-LM241_1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ dòng limited-LM241_2.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ dòng limited-LM241_2.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ dòng limited-LM241_3.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ dòng limited-LM241_3.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\Váy lễ dòng premium limited-LM278.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\Váy lễ dòng premium limited-LM278.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\aodai-1.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\aodai-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\cn1.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\cn1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\icon_cmt.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\icon_cmt.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\image_invalid.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\image_invalid.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-1.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-2.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-3.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-4.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-5.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-6.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-6.png",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-6.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-7.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vaycuoi-8.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vaycuoi-8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vest-1.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vest-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vest-1_1.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vest-1_1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\danhmuc\\vest-1_2.jpg",
+      "PackagePath": "staticwebassets\\img\\danhmuc\\vest-1_2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\event-1.jpg",
+      "PackagePath": "staticwebassets\\img\\event-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\event-2.jpg",
+      "PackagePath": "staticwebassets\\img\\event-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery\\53315753088_a11d4810fb_o.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\53315753088_a11d4810fb_o.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery\\53315871309_08f547546d_k.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\53315871309_08f547546d_k.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery\\53315989685_dddba6daac_o.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\53315989685_dddba6daac_o.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery\\MinhXu.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\MinhXu.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery\\ThanhThuy.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\ThanhThuy.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\gallery\\tiệc 1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\tiệc 1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\groomsmen-1.jpg",
+      "PackagePath": "staticwebassets\\img\\groomsmen-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\groomsmen-2.jpg",
+      "PackagePath": "staticwebassets\\img\\groomsmen-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\groomsmen-3.jpg",
+      "PackagePath": "staticwebassets\\img\\groomsmen-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\kỷ yếu.jpg",
+      "PackagePath": "staticwebassets\\img\\kỷ yếu.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\prewedding.jpg",
+      "PackagePath": "staticwebassets\\img\\prewedding.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\s-hoi.jpg",
+      "PackagePath": "staticwebassets\\img\\s-hoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\sp-chandung.jpg",
+      "PackagePath": "staticwebassets\\img\\sp-chandung.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\sp-chandung.png",
+      "PackagePath": "staticwebassets\\img\\sp-chandung.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\sp-cuoi.jpg",
+      "PackagePath": "staticwebassets\\img\\sp-cuoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\sp-evrnt.jpg",
+      "PackagePath": "staticwebassets\\img\\sp-evrnt.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\sp-hoi.jpg",
+      "PackagePath": "staticwebassets\\img\\sp-hoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\sp-kyyeu4.jpg",
+      "PackagePath": "staticwebassets\\img\\sp-kyyeu4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\story-1.jpg",
+      "PackagePath": "staticwebassets\\img\\story-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\story-2.jpg",
+      "PackagePath": "staticwebassets\\img\\story-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\story-3.jpg",
+      "PackagePath": "staticwebassets\\img\\story-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\story-4.jpg",
+      "PackagePath": "staticwebassets\\img\\story-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\trangphuc\\Vest nam.jpg",
+      "PackagePath": "staticwebassets\\img\\trangphuc\\Vest nam.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\trangphuc\\ao dai cuoi.jpg",
+      "PackagePath": "staticwebassets\\img\\trangphuc\\ao dai cuoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\trangphuc\\tpKyyeu.jpg",
+      "PackagePath": "staticwebassets\\img\\trangphuc\\tpKyyeu.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\trangphuc\\váy cưới.jpg",
+      "PackagePath": "staticwebassets\\img\\trangphuc\\váy cưới.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\404.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\about.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\blog.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\blog.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\booking.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\booking.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\contact.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\destination.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\destination.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\gallery.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\gallery.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\guides.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\guides.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\about-img-1.png",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\about-img-1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-5.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-6.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-7.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-8.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-9.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\destination-9.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-4.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-5.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-6.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\explore-tour-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-10.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-11.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-12.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\gallery-9.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-4.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\guide-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-4.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\packages-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\subscribe-img.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\subscribe-img.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\img\\tour-booking-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\img\\tour-booking-bg.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\index.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\packages.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\packages.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\services.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\services.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\testimonial.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\testimonial.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\tour.html",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\tour.html"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\travela-1.0.0\\travela-1.0.0\\tourism-website-template.jpg",
+      "PackagePath": "staticwebassets\\img\\travela-1.0.0\\travela-1.0.0\\tourism-website-template.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\tải xuống (1).jpg",
+      "PackagePath": "staticwebassets\\img\\tải xuống (1).jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\img\\tải xuống (4).jpg",
+      "PackagePath": "staticwebassets\\img\\tải xuống (4).jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Đồ án Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoAnMonHoc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoAnMonHoc.props",
+      "PackagePath": "build\\DoAnMonHoc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnMonHoc.props",
+      "PackagePath": "buildMultiTargeting\\DoAnMonHoc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoAnMonHoc.props",
+      "PackagePath": "buildTransitive\\DoAnMonHoc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

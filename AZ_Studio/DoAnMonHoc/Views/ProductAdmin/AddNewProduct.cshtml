@@ -1,0 +1,69 @@
+﻿@model DoAnMonHoc.ViewModel.ProductVM
+<body style="background-color: #F5FFFA;">
+	<div class="container AddSP">
+		<h2>Thêm Sản Phẩm</h2>
+		<form asp-action="AddNewProduct" asp-controller="ProductAdmin" enctype="multipart/form-data" class="row">
+			<div class="col-md-6 mb-3">
+				<label asp-for="MaSanPham" class="form-label">Mã Sản Phẩm:</label>
+				<input type="text" class="form-control" asp-for="MaSanPham" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="TenSanPham" class="form-label">Tên Sản Phẩm:</label>
+				<input type="text" class="form-control" asp-for="TenSanPham" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="Hinh" class="form-label">Hình Ảnh Sản Phẩm:</label>
+				<input type="file" class="form-control" asp-for="Hinh" name="formFile" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="HinhAnhChiTiet" class="form-label">Chi Tiết hình ảnh sản phẩm</label>
+				<input type="file" class="form-control" asp-for="HinhAnhChiTiet" name="images" multiple>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="DonGia" class="form-label">Đơn Giá:</label>
+				<input type="number" class="form-control" asp-for="DonGia" min="0" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="SoLuongBan" class="form-label">Số Lượng Bán:</label>
+				<input type="number" class="form-control" asp-for="SoLuongBan" min="0" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="MoTa" class="form-label">Mô Tả:</label>
+				<textarea class="form-control" asp-for="MoTa" required></textarea>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="NgaySanXuat" class="form-label">Ngày Sản Xuất:</label>
+				<input type="date" class="form-control" asp-for="NgaySanXuat" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="SoLuong" class="form-label">Số Lượng:</label>
+				<input type="number" class="form-control" asp-for="SoLuong" min="0" required>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="MaLoai" class="form-label"></label>
+				<select asp-for="MaLoai" asp-items="ViewBag.ProductCategories" class="form-control"></select>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="MaNhaCungCap" class="form-label"></label>
+				<select asp-for="MaNhaCungCap" asp-items="ViewBag.NCCCategories" class="form-control"></select>
+			</div>
+			<div class="col-md-6 mb-3">
+				<label asp-for="MaSize" class="form-label"></label>
+				<select asp-for="MaSize" asp-items="ViewBag.SizeCategories" class="form-control"></select>
+			</div>
+			<div class="col-12 mt-3">
+				<button type="submit" class="btn btn-primary btn-block">Thêm Sản Phẩm</button>
+			</div>
+		</form>
+	</div>
+	<div>
+		<a asp-action="Index" asp-controller="ProductAdmin">Trở về</a>
+	</div>
+</body>
+@*
+    asp-for là một thuộc tính tag helper quan trọng trong ASP.NET Core Razor views. Nó giúp liên kết các phần tử HTML với các thuộc tính mô hình, tạo ràng buộc dữ liệu và đơn giản hóa cú pháp, dẫn đến code dễ đọc và bảo trì hơn.
+            <div class="col-md-6 mb-3">
+                <label asp-for="MaSize" class="form-label"></label>
+                <select asp-for="MaSize" asp-items="ViewBag.SizeCategories" class="form-control"></select>
+            </div>
+*@

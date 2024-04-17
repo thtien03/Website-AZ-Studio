@@ -1,0 +1,96 @@
+﻿@model IEnumerable<DoAnMonHoc.ViewModel.ChiTietHoaDonVM>
+<head>
+	<style>
+		.container {
+			margin-top: 20px;
+		}
+
+		.table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+
+			.table th, .table td {
+				padding: 8px;
+				text-align: left;
+				border-bottom: 1px solid #ddd;
+			}
+
+			.table th {
+				background-color: #f2f2f2;
+			}
+
+			.table td img {
+				max-width: 100px;
+				max-height: 100px;
+				border-radius: 5px;
+			}
+
+		.no-orders {
+			margin-top: 20px;
+			font-size: 18px;
+			text-align: center;
+	</style>
+</head>
+<body>
+
+	@if (Model.Count() > 0)
+	{
+		<div class="container">
+			<h2 class="mt-4">Chi tiết hóa đơn</h2>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Mã chi tiết hóa đơn</th>
+						<th>Ngày đặt</th>
+						<th>Ngày giao dự kiến</th>
+						<th>Họ tên</th>
+						<th>Tổng tiền</th>
+						<th>Phí vận chuyển</th>
+						<th>Địa chỉ</th>
+						<th>Số ĐT</th>
+						<th>Mã hóa đơn</th>
+						<th>Ảnh sản phẩm</th>
+						<th>Mã sản phẩm</th>
+						<th>Ghi chú</th>
+						<th>Phương thức thanh toán</th>
+						<th>Số lượng</th>
+						<th>Tên sản phẩm</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>@item.MaChiTietHD</td>
+							<td>@item.NgayDat.ToShortDateString()</td>
+							<td>@(item.NgayGiaoDuKien.HasValue ? item.NgayGiaoDuKien.Value.ToShortDateString() : "")</td>
+							<td>@item.HoTen</td>
+							<td>@item.TongTien</td>
+							<td>@item.PhiVanChuyen</td>
+							<td>@item.DiaChi</td>
+							<td>@item.DienThoai</td>
+							<td>@item.MaHoaDon</td>
+							<td><img src="~/img/danhmuc/@item.anh" alt="@item.TenSanPham" /></td>
+							<td>@item.MaSanPham</td>
+							<td>@item.GhiChu</td>
+							<td>@item.PhuongThucThanhToan</td>
+							<td>@item.SoLuong</td>
+							<td>@item.TenSanPham</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+		<form asp-action="Index" asp-controller="ProductAdmin">
+			<button type="submit" class="btn btn-primary">Trở về</button>
+		</form>
+	}
+	else
+	{
+		<div class="no-orders">
+			<h1>Không có đơn hàng nào ở của người dùng mua cả</h1>
+			<a asp-action="Index" asp-controller="ProductAdmin" class="btn btn-primary">Trở về</a>
+		</div>
+	}
+</body>

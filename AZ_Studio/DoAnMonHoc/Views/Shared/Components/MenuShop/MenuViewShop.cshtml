@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DoAnMonHoc.ViewModel.MenuShopVM>
+<head>
+	<style>
+		.text-orange {
+			color: #FF1493;
+			font-size: 18px
+		}
+
+		.text-font {
+			font-weight: bold;
+			color: #000080;
+		}
+	</style>
+</head>
+<body>
+	<div class="filter-container border-bottom mb-4 pb-4 mt-5 d-flex flex-wrap justify-content-between">
+		<div class="filter-title d-flex align-items-center mb-2">
+			<h5 class="font-weight-semi-bold mr-2">Chọn danh mục</h5>
+		</div>
+		<form class="w-100">
+			<ul class="list-unstyled fruite-categorie">
+				@foreach (var item in Model)
+				{
+					<li>
+						<div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+							<input type="checkbox" data-category-id="@item.MaDanhMuc" class="custom-control-input" id="category-@item.MaDanhMuc">
+							<label class="custom-control-label text-font font-weight-bold" for="category-@item.MaDanhMuc">@item.TenDanhMuc</label>
+							<span class="badge border text-orange font-weight-bold">(@item.SoLuong)</span>
+						</div>
+					</li>
+				}
+			</ul>
+		</form>
+	</div>
+</body>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+	$(document).ready(function () {
+		$('.custom-control-input').on('change', function () {
+			var categoryId = $(this).data('category-id');
+			window.location.href = '/Product/Index?loai=' + categoryId;
+		});
+	});
+</script>
+
+@*data('category-id') là một phương thức của jQuery được sử dụng để truy xuất giá trị 
+của thuộc tính data-category-id trong checkbox đó.*@
+

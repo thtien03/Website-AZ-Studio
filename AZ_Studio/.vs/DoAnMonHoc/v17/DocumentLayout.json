@@ -1,0 +1,1639 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\customervisitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\customervisitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_layoutnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_layoutnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\messagecustomervisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\messagecustomervisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Migrations\\20240417044254_InitialAZStudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnMonHoc\\Migrations\\20240417044254_InitialAZStudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_layoutcustom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_layoutcustom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\productadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\productadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewcomponents\\menushopviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewcomponents\\menushopviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\menushopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\menushopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_cartitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_cartitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_layoutfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_layoutfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\doanmonhoc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\doanmonhoc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\doanmonhoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\doanmonhoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\orderusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\orderusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\productadmin\\danhsachnguoidungdathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\productadmin\\danhsachnguoidungdathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\orderuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\orderuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\chitiethoadonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\chitiethoadonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_danhsachbinhluan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_danhsachbinhluan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\cart\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\cart\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\productadmin\\addnewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\productadmin\\addnewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\thanhtoanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\thanhtoanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\vnpayresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\vnpayresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\cardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\cardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\chitietsanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\chitietsanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\chitietdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\chitietdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\sanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\sanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_processtocheckout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_processtocheckout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\registervm\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\registervm\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\vnpay\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\vnpay\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\registervm\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\registervm\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewmodel\\menusizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewmodel\\menusizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\productadmin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\productadmin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\productadmin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\productadmin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_quanlysanphamadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_quanlysanphamadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_timkiemsanphamadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_timkiemsanphamadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\productimagedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\productimagedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos_web_app\\DoAnMonHoc\\DoAnMonHoc\\Migrations\\20240413035124_Initial AZStudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\product\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\product\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\productadmin\\searchproductadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\productadmin\\searchproductadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\components\\menusize\\menusizeshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\components\\menusize\\menusizeshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_thaydoisoluongsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_thaydoisoluongsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_timkiemsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_timkiemsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\components\\menushop\\menuviewshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\components\\menushop\\menuviewshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\session\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\session\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\wwwroot\\css\\style.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\wwwroot\\css\\style.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\wwwroot\\css\\style_shop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\wwwroot\\css\\style_shop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|d:\\documents\\\u0111\u1ED3 \u00E1n web\\az_studio\\doanmonhoc\\viewcomponents\\menusizeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE71BB8-D7F9-451F-885C-D55017D7588F}|DoAnMonHoc\\DoAnMonHoc.csproj|solutionrelative:doanmonhoc\\viewcomponents\\menusizeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos_web_app\\DoAnMonHoc\\DoAnMonHoc\\Migrations\\20240407032135_Initial database studioHutechDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Migrations\\20240416161111_InitialAZStudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnMonHoc\\Migrations\\20240416161111_InitialAZStudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageCustomerVisit.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\MessageCustomerVisit.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\MessageCustomerVisit.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\MessageCustomerVisit.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\MessageCustomerVisit.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:45:00.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerVisitController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\CustomerVisitController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\CustomerVisitController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\CustomerVisitController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\CustomerVisitController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:43:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutNavbar.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LayoutNavbar.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_LayoutNavbar.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LayoutNavbar.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_LayoutNavbar.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Carousel.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_Carousel.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Carousel.cshtml*",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_Carousel.cshtml*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T03:12:35.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwC4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Contact.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Contact.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_Contact.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Contact.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_Contact.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwCcAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T19:12:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240417044254_InitialAZStudio.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Migrations\\20240417044254_InitialAZStudio.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Migrations\\20240417044254_InitialAZStudio.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Migrations\\20240417044254_InitialAZStudio.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Migrations\\20240417044254_InitialAZStudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:42:54.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuShopVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\MenuShopVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\MenuShopVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\MenuShopVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\MenuShopVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Sanpham.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Sanpham.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_Sanpham.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Sanpham.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_Sanpham.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwFUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuShopViewComponent.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewComponents\\MenuShopViewComponent.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewComponents\\MenuShopViewComponent.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewComponents\\MenuShopViewComponent.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewComponents\\MenuShopViewComponent.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\ProductAdmin\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\Index.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\ProductAdmin\\Index.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwEQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LayoutCustom.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LayoutCustom.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_LayoutCustom.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LayoutCustom.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_LayoutCustom.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Story.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Story.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_Story.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_Story.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_Story.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\appsettings.json",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\appsettings.json",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\appsettings.json",
+              "RelativeToolTip": "DoAnMonHoc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T15:45:22.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductAdminController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\ProductAdminController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\ProductAdminController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\ProductAdminController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\ProductAdminController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAlwNUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoAnMonHoc.csproj",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\DoAnMonHoc.csproj",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\DoAnMonHoc.csproj",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\DoAnMonHoc.csproj",
+              "RelativeToolTip": "DoAnMonHoc\\DoAnMonHoc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T15:45:22.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoAnMonHoc",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\DoAnMonHoc.csproj",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\DoAnMonHoc.csproj",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\DoAnMonHoc.csproj",
+              "RelativeToolTip": "DoAnMonHoc\\DoAnMonHoc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T15:45:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_CartItem.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_CartItem.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_CartItem.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_CartItem.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_CartItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LayoutFooter.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LayoutFooter.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_LayoutFooter.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_LayoutFooter.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_LayoutFooter.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20240416161111_InitialAZStudio.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Migrations\\20240416161111_InitialAZStudio.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Migrations\\20240416161111_InitialAZStudio.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Migrations\\20240416161111_InitialAZStudio.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Migrations\\20240416161111_InitialAZStudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:11:11.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DoAnMonHoc\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABcAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T15:55:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderUserController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\OrderUserController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\OrderUserController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\OrderUserController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\OrderUserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIBQwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Program.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Program.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\OrderUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\OrderUser\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\OrderUser\\Index.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\OrderUser\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DanhSachNguoiDungDatHang.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\DanhSachNguoiDungDatHang.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\ProductAdmin\\DanhSachNguoiDungDatHang.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\DanhSachNguoiDungDatHang.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\ProductAdmin\\DanhSachNguoiDungDatHang.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBZwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DonDatHang.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\DonDatHang.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\DonDatHang.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\DonDatHang.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\DonDatHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAIBZwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ChiTietHoaDon.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ChiTietHoaDon.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_ChiTietHoaDon.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ChiTietHoaDon.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_ChiTietHoaDon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChiTietHoaDonVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ChiTietHoaDonVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\ChiTietHoaDonVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ChiTietHoaDonVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\ChiTietHoaDonVM.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAgwGcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_DanhSachBinhLuan.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_DanhSachBinhLuan.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_DanhSachBinhLuan.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_DanhSachBinhLuan.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_DanhSachBinhLuan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBZwDIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\AppUser.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\AppUser.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\AppUser.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\registerVM\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\registerVM\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\registerVM\\RegisterViewModel.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\registerVM\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\registerVM\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\registerVM\\LoginViewModel.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\registerVM\\LoginViewModel.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\registerVM\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CommentVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\CommentVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\CommentVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\CommentVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\CommentVM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymentFail.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\PaymentFail.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Cart\\PaymentFail.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\PaymentFail.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Cart\\PaymentFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentSuccess.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\PaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Cart\\PaymentSuccess.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\PaymentSuccess.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Cart\\PaymentSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\ProductAdmin\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\DeleteProduct.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\ProductAdmin\\DeleteProduct.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240413035124_Initial AZStudio.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos_web_app\\DoAnMonHoc\\DoAnMonHoc\\Migrations\\20240413035124_Initial AZStudio.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos_web_app\\DoAnMonHoc\\DoAnMonHoc\\Migrations\\20240413035124_Initial AZStudio.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:51:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\ThanhToan.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ThanhToan.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\ThanhToan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TrangThai.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\TrangThai.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\TrangThai.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\TrangThai.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\TrangThai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\ProductAdmin\\UpdateProduct.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\UpdateProduct.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\ProductAdmin\\UpdateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CheckOutVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\CheckOutVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\CheckOutVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\CheckOutVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\CheckOutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\HoaDon.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\HoaDon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\Comment.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\Comment.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ProductImageDetail.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ProductImageDetail.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\ProductImageDetail.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ProductImageDetail.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\ProductImageDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\KhachHang.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\KhachHang.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\ProductVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ProductVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_About.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_About.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_About.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_About.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddNewProduct.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\AddNewProduct.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\ProductAdmin\\AddNewProduct.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\AddNewProduct.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\ProductAdmin\\AddNewProduct.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SearchProductAdmin.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\SearchProductAdmin.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\ProductAdmin\\SearchProductAdmin.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\ProductAdmin\\SearchProductAdmin.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\ProductAdmin\\SearchProductAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_TimKiemSanPhamAdmin.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_TimKiemSanPhamAdmin.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_TimKiemSanPhamAdmin.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_TimKiemSanPhamAdmin.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_TimKiemSanPhamAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "_QuanLySanPhamAdmin.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_QuanLySanPhamAdmin.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_QuanLySanPhamAdmin.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_QuanLySanPhamAdmin.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_QuanLySanPhamAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:21.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ThanhToanVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ThanhToanVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\ThanhToanVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ThanhToanVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\ThanhToanVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:21.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Vnpay\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Vnpay\\IVnPayService.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Vnpay\\IVnPayService.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Vnpay\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VnpayResponse.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\VnpayResponse.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\VnpayResponse.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\VnpayResponse.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\VnpayResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OrderInfo.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\OrderInfo.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\OrderInfo.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\OrderInfo.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\OrderInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Vnpay\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Vnpay\\VnPayLibrary.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Vnpay\\VnPayLibrary.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Vnpay\\VnPayLibrary.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAvwJUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Vnpay\\VnPayService.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Vnpay\\VnPayService.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Vnpay\\VnPayService.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Vnpay\\VnPayService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ProcessToCheckout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ProcessToCheckout.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_ProcessToCheckout.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ProcessToCheckout.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_ProcessToCheckout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "_ThayDoiSoLuongSanPham.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ThayDoiSoLuongSanPham.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_ThayDoiSoLuongSanPham.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ThayDoiSoLuongSanPham.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_ThayDoiSoLuongSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBZwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CardVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\CardVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\CardVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\CardVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\CardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Session\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Session\\SessionExtensions.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Session\\SessionExtensions.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Session\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ChiTietDonDatHang.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ChiTietDonDatHang.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\ChiTietDonDatHang.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ChiTietDonDatHang.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\ChiTietDonDatHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ChiTietSanPhamVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ChiTietSanPhamVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\ChiTietSanPhamVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\ChiTietSanPhamVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\ChiTietSanPhamVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SearchProduct.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Product\\SearchProduct.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Product\\SearchProduct.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Product\\SearchProduct.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Product\\SearchProduct.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvzMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "style.min.css",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style.min.css",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\wwwroot\\css\\style.min.css",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style.min.css",
+              "RelativeToolTip": "DoAnMonHoc\\wwwroot\\css\\style.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T15:45:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "style_shop.css",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style_shop.css",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\wwwroot\\css\\style_shop.css",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style_shop.css",
+              "RelativeToolTip": "DoAnMonHoc\\wwwroot\\css\\style_shop.css",
+              "ViewState": "AQIAAGEoAAAAAAAAAAAYwJsoAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T15:45:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\wwwroot\\js\\main.js",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "DoAnMonHoc\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAUwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T15:45:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "DoAnMonHoc\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAALkqAAAAAAAAAAAYwM8qAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T15:45:22.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DoAnMonHoc\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T15:45:22.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SanPhamVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\SanPhamVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\SanPhamVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\SanPhamVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\SanPhamVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_DanhSachSanPham.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_DanhSachSanPham.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_DanhSachSanPham.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_DanhSachSanPham.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_DanhSachSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "MenuSizeShop.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\Components\\MenuSize\\MenuSizeShop.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\Components\\MenuSize\\MenuSizeShop.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\Components\\MenuSize\\MenuSizeShop.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\Components\\MenuSize\\MenuSizeShop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "MenuSizeViewComponent.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewComponents\\MenuSizeViewComponent.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewComponents\\MenuSizeViewComponent.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewComponents\\MenuSizeViewComponent.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewComponents\\MenuSizeViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MenuSizeVM.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\MenuSizeVM.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\ViewModel\\MenuSizeVM.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\ViewModel\\MenuSizeVM.cs",
+              "RelativeToolTip": "DoAnMonHoc\\ViewModel\\MenuSizeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "_TimKiemSanPham.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_TimKiemSanPham.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_TimKiemSanPham.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_TimKiemSanPham.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_TimKiemSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "MenuViewShop.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\Components\\MenuShop\\MenuViewShop.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\Components\\MenuShop\\MenuViewShop.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\Components\\MenuShop\\MenuViewShop.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\Components\\MenuShop\\MenuViewShop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Size.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\Size.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\Size.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\NhaCungCap.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\NhaCungCap.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\NhaCungCap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Models\\Product.cs",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Models\\Product.cs",
+              "RelativeToolTip": "DoAnMonHoc\\Models\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:45:22.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DoAnMonHoc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Documents\\\u0110\u1ED3 \u00E1n Web\\AZ_Studio\\DoAnMonHoc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DoAnMonHoc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8CAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T15:45:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20240407032135_Initial database studioHutechDb.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos_web_app\\DoAnMonHoc\\DoAnMonHoc\\Migrations\\20240407032135_Initial database studioHutechDb.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos_web_app\\DoAnMonHoc\\DoAnMonHoc\\Migrations\\20240407032135_Initial database studioHutechDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:21:36.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

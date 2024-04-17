@@ -1,0 +1,39 @@
+﻿    <!-- Navbar Start -->
+<nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
+    <a href="index.html" class="navbar-brand d-block d-lg-none">
+        <h1 class="font-secondary text-white mb-n2">AZ <span class="text-primary">-</span> Studio</h1>
+    </a>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+        <div class="navbar-nav ml-auto py-0">
+            <a href="#home" class="nav-item nav-link active">Trang chủ</a>
+            <a href="#about" class="nav-item nav-link">Về chúng tôi</a>
+            <a href="#dichvu" class="nav-item nav-link">Dịch vụ</a>
+        </div>
+        <a asp-action="Index" asp-controller="Home" class="navbar-brand mx-5 d-none d-lg-block">
+            <h1 class="font-weight-bold text-white mb-n2">AZ <span class="text-primary">-</span> Studio</h1>
+        </a>
+        <div class="navbar-nav mr-auto py-0">
+            <div class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Shop
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a asp-action="Index" asp-controller="Product" class="dropdown-item">Shop</a>
+                    <a asp-action="Index" asp-controller="Cart" class="dropdown-item">Giỏ hàng</a>
+                    <a asp-action="Index" asp-controller="OrderUser" class="dropdown-item">Đơn hàng đã mua</a>
+                    <a asp-action="Index" asp-controller="ProductAdmin" class="dropdown-item">Shop Admin</a>
+                    <a asp-action="DoanhThu" asp-controller="ProductAdmin" class="dropdown-item">Báo cáo doanh thu</a>
+                    <a asp-action="DanhSachNguoiDungDatHang" asp-controller="ProductAdmin" class="dropdown-item">Danh sách các đơn đặt hàng của khách hàng</a>
+                </div>
+            </div>
+            <a href="#trangphuc" class="nav-item nav-link">Trang phục</a>
+            <a href="#contact" class="nav-item nav-link">Liên hệ</a>
+            <partial name="_LoginPartial" />
+        </div>
+
+    </div>
+</nav>
+<!-- Navbar End -->

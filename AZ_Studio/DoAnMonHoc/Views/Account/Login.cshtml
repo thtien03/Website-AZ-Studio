@@ -1,0 +1,54 @@
+﻿@model DoAnMonHoc.ViewModel.registerVM.LoginViewModel
+
+@{
+	ViewData["Title"] = "Login";
+}
+<div class="row align-items-center justify-content-center">
+	<div class="col-md-4 card p-3">
+		<h2 class="text-center text-info">Login</h2>
+		<form asp-action="Login" asp-controller="Account" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="mb-1">
+				<label asp-for="Username" class="control-label"></label>
+				<input asp-for="Username" class="form-control" />
+				<span asp-validation-for="Username" class="text-danger"></span>
+			</div>
+			<div class="mb-1">
+				<label asp-for="Password" class="control-label"></label>
+				<input asp-for="Password" class="form-control" />
+				<span asp-validation-for="Password" class="text-danger"></span>
+			</div>
+			<div class="mb-1 form-check">
+				<label asp-for="RememberMe" class="control-label">
+					<input asp-for="RememberMe" class="form-check-input" /> @Html.DisplayNameFor(a => a.RememberMe)
+				</label>
+			</div>
+			<div class="row">
+				<div class="col-8">
+					<a asp-action="Register" class="text-decoration-none float-start mt-2">Don't have account?</a>
+				</div>
+				<div class="col-4">
+					<input type="submit" value="Login" class="btn btn-primary btn-sm float-end" />
+				</div>
+			</div>
+
+		</form>
+	</div>
+</div>
+@*
+	card : lớp tạo ra 1 thẻ có đường viền và nền
+	p-3: đây là lớp để thêm padding với kích thước = 3
+	text-info:thiết lập màu chữ là màu thông tin
+	<form> sd để gửi dữ liệu đến máy chủ
+			asp-action -> hoạt động mà forrm gửi đi
+			method ="post" -> http mà form sẽ sd để gửi dữ liệu, post -> dữ liệu được gửi trong
+			1 gói dữ liệu ẩn
+    asp-validation-summary="ModelOnly" -> sd để hiển thị thông báo lỗi quan trọng liên quan đến model
+	class ="mb-1" margin-bottom-1
+	asp-for="Username" -> đây là label được tạo ra từ tt username của model
+		asp-for: xác định rằng nhãn sẽ liên kết với trường dữ liệu Username trong mô hình
+		class ="form-control" -> lớp cung cấp kiểu dáng cho trường nhập dữ liệu
+    <span asp-validation-for> ->hiển thị thông báo lỗi nếu có lỗi xảy ra khi nhập dữ liệu
+			-asp-validation-for="username"-> thông báo lỗi hiển thị cho trường username
+			-class="text-danger" -> cc màu sắc cho văn bản , text-danger -> màu đỏ
+*@

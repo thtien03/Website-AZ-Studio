@@ -1,0 +1,23 @@
+﻿@model IEnumerable<DoAnMonHoc.ViewModel.SanPhamVM>
+@{
+	ViewData["title"] = "Tìm kiếm";
+}
+@if (Model.Count() < 0)
+{
+	<h1> không tìm thấy sản phẩm cần tìm</h1>
+}
+else
+{
+	<h1 class="justify-content-center align-content-center " style="color:orange;"> Danh sách các sản phẩm tìm kiếm</h1>
+}
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+	<div class="container-fluid pt-5">
+		<div class="row px-xl-5 ">
+			<div class="col-lg-9 col-md-12">
+				<div class="row pb-3">
+					@await Html.PartialAsync("_QuanLySanPhamAdmin")
+				</div>
+			</div>
+		</div>
+	</div>
+</body>   
